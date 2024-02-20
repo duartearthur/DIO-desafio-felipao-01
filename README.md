@@ -1,9 +1,8 @@
-Desafio Felipão - DIO
+# Desafio Felipão - DIO
 
 Esse foi meu primeiro desafio de código que conclui, o desafio foi proposto pelo Felipão da DIO.
 Segue abaixo a descrição do que o meu código deve conseguir executar:
 
-Instruções para entrega
 # 1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
