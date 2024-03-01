@@ -1,4 +1,5 @@
-# Desafio Felipão - DIO (1)
+# DIO-desafio-felipao-01
+
 
 Esse foi meu primeiro desafio de código que conclui, o desafio foi proposto pelo Felipão da DIO.
 Segue abaixo a descrição do que o meu código deve conseguir executar:
